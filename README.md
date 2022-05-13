@@ -10,6 +10,14 @@ Essential shell (bash) scripts
 
 2) `compile_latex.sh` Shell script to compile latex into PDF
 
+3) `swarm_scheduler.sh` Shell script to generate swarm of jobs using SLURM HPC job scheduler
+
 ## Acknowledgements
 
 http://decio.blogspot.com/2009/01/join-merge-pdf-files-in-linux.html
+
+## Contact
+
+Soumya Banerjee
+
+sb2333@cam.ac.uk
