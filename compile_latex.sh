@@ -67,6 +67,6 @@ fi
     fi
 
 
-
+# remove temp files
 rm *.log *.ps *.dvi *.aux *.bbl *.blg
 
