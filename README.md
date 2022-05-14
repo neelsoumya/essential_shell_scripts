@@ -6,7 +6,7 @@ Essential shell (bash) scripts
 
 ## Files
 
-1) `join.sh`  Shell script to join PDFs together to create a single PDF
+1) `ghostscriptjoinpdf.sh`  Shell script to join PDFs together to create a single PDF
 
 2) `compile_latex.sh` Shell script to compile latex into PDF
 
