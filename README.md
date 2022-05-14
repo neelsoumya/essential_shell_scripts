@@ -10,7 +10,9 @@ Essential shell (bash) scripts
 
 2) `compile_latex.sh` Shell script to compile latex into PDF
 
-3) `swarm_scheduler.sh` Shell script to generate swarm of jobs using SLURM HPC job scheduler
+3) `installer_unix.sh` Install R and other utilities on UNIX
+ 
+4) `swarm_scheduler.sh` Shell script to generate swarm of jobs using SLURM HPC job scheduler
 
 ## Acknowledgements
 
