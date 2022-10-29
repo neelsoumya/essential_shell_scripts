@@ -14,6 +14,8 @@ Essential shell (bash) scripts
  
 4) `swarm_scheduler.sh` Shell script to generate swarm of jobs using SLURM HPC job scheduler
 
+5) `bcakup_script_newmac.sh` Shell script to backup my Mac OS X
+
 ## Acknowledgements
 
 http://decio.blogspot.com/2009/01/join-merge-pdf-files-in-linux.html
